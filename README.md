@@ -21,7 +21,7 @@ Each project folder contains files and assets related to that specific virtual i
 ## 📁 Projects Included
 
 - Tata: Data Analyst Virtual Internship (Excel, Power BI)
-- [More projects to be added soon from Forage]
+- Deloitte: Data Analyst Virtual Internship (Excel, Tableau)
 
 ---
 
